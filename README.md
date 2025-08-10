@@ -129,4 +129,3 @@ This system empowers riders with a **smart safety net**, ensuring that help is j
 
 ---
 
-Would you like help designing a logo or UI mockup for the apps next? Or maybe a pitch deck to present this project?
