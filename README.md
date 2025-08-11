@@ -1,7 +1,3 @@
-Absolutely, Amar! Here's a polished and visually engaging version of your project README that highlights the innovation and impact of your Smart Helmet Accident Alert System:
-
----
-
 # 🪖 Smart Helmet Accident Alert System
 
 ### 🚦 A Life-Saving IoT + Android Solution for Riders
